@@ -1,0 +1,12 @@
+Navy #000080
+DarkGreen #006400
+SlateBlue #007FFF
+SpringGreen #008B45
+TrueGreen #00AF33
+Turquoise #00E5EE
+NeonAvocado #00FF66
+Topaz #0198E1
+Bloodred #660000
+Burgundy #9E0508
+Turnip #A74CAB
+DarkOrchid #B23AEE
